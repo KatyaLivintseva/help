@@ -64,6 +64,6 @@ def shifr():
     except TypeError:
         A=1
         print('Введите текст.')
-        
+shifr()        
 while A==1:
     shifr()
